@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+}
+
+.navBar{
+    background-color: black;
+}
+.navBar-Data {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.navBar-Data li{
+    padding: 1vw;
+    color: #fff;
+}

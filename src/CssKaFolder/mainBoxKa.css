@@ -1,0 +1,21 @@
+.mainBox{
+    display: flex;
+    background-color: wheat;
+    margin: 3%;
+    padding: 13vw;
+    border-radius: 46px;
+    border: 2px solid black;
+    justify-content: space-around;
+}
+.data{
+    display: flex;
+    padding: 1vw 4vw;
+}
+.data div{
+    padding: 0vw 2vw;
+}
+.searchBox{
+    border-radius: 46px;
+    font-size: 2rem;
+    padding: 1vw;
+}
